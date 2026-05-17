@@ -1,4 +1,6 @@
 # Lab 1 - Introduction to AWS Identity and Access Management (IAM)
+# Name: VISHAL V
+# Reg No 212224040366
 
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
@@ -29,13 +31,15 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Inspected managed and inline policies attached to groups  
 **Screenshot:**  
 (Add screenshot here)
+<img width="1277" height="631" alt="image" src="https://github.com/user-attachments/assets/abe59445-f85b-477c-8e5b-65c9ea821b1d" />
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
-(Add screenshot here)
+  <img width="1258" height="678" alt="image" src="https://github.com/user-attachments/assets/ce1f8cdf-3cb6-4fbb-b62b-ebfbc7a8f736" />
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -43,7 +47,8 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1263" height="677" alt="image" src="https://github.com/user-attachments/assets/f85ef4e9-cb6d-4ffa-8e96-a0fc3a9b7248" />
+
 
 
 ## Workflow
@@ -65,7 +70,4 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 This lab provided hands-on experience with AWS IAM by demonstrating how organizations manage secure access to cloud resources. Assigning users to groups with predefined policies simplified permission management and ensured role-based access control across AWS services.
 
 
-## Author
-**Name:** Your Name and (Reg No)
-**Course:** Introduction to Cloud Computing  
 
